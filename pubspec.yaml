@@ -1,0 +1,28 @@
+name: lechat
+description: A LeChat App.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+# Assets
+assets:
+  .env
+
+# Dependencies
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_dotenv: ^5.0.2
+  supabase_flutter: ^1.0.0
+  timeago: ^3.1.0
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# Flutter packages.
+flutter:
+  uses-material-design: true
