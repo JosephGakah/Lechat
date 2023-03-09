@@ -1,6 +1,6 @@
 # LeChat
-
-A new Flutter project.
+## A flutter and supabase chat app
+## Understanding how Supabase and flutter works.
 
 ## Getting Started
 
